@@ -1,0 +1,84 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    width: 100%;
+    color: #ececec; 
+}
+
+section{
+    background-color: #0C70F2;
+    padding-left: 3%;
+    width: 50%;
+    
+}
+
+section h1{
+    text-align: center;
+    margin-right: 12%;
+    font-size: 4rem;
+    padding-top: 23%;
+    margin-bottom: 0rem;
+}
+
+section h3{
+    text-align: center;
+    margin-right: 12%;
+}
+
+section button{
+    background: transparent;
+    align-content: center;
+    margin-bottom: 33%;
+    margin-left:32%;
+    width: 9rem;
+    height: 2rem;
+    border-radius: 10px;
+}
+
+main {
+    text-align: center;
+    padding-top: 5%;
+    margin: 0 auto;
+}
+
+main h1{
+    font-size: 4rem;
+    color: black;
+    
+}
+
+#redes button{
+    margin: 1%;
+    border-radius: 15px;
+}
+
+#inputs{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+}
+
+#inputs p{
+    color: black;
+    font-size: 1.2rem;
+}
+
+#inputs input{
+    margin: 1%;
+    padding: 2%;
+    border-radius: 10px;
+    border: 1px solid #CCCCCC;
+}
+
+#inputs button{
+    background-color: #0c70f2cb;
+    margin: 3%;
+    padding: 2%;
+    border-radius: 10px;
+    border: 1px solid #646262;
+    width: 10rem;
+    margin-left: 35%;
+    
+}
